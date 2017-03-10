@@ -1,0 +1,33 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=GB18030">
+<title>Insert title here</title>
+<link rel="stylesheet" href="res/css/blitzer/jquery-ui-1.9.2.custom.min.css">
+	<script src="res/js/jquery-1.8.3.js"></script>
+	<script src="res/js/jquery-ui-1.9.2.custom.min.js"></script>
+	<script>
+	$(function() {
+		$( "#dialog-message" ).dialog({
+			modal: true,
+			buttons: {
+				Ok: function() {
+					$( this ).dialog( "close" );
+				}
+			}
+		});
+	});
+	</script>
+</head>
+<body>
+<div id="dialog-message" title="Download complete">
+	<p>
+		<span class="ui-icon ui-icon-circle-check" style="float:left; margin:0 7px 50px 0;"></span>
+		Your files have downloaded successfully into the My Downloads folder.
+	
+		
+	</p>
+	
+</div>
+</body>
+</html>

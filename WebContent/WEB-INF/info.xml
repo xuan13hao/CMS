@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>网站信息设置</comment>
+<entry key="site">红萌网</entry>
+<entry key="icp">陕IPC备121325号</entry>
+<entry key="email">info@redwww.com</entry>
+<entry key="smtp">smptp.qq.com</entry>
+<entry key="port">25</entry>
+<entry key="pwd">123456</entry>
+</properties>
+
+
