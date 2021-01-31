@@ -1,5 +1,5 @@
 # CMS
 A strong ,small and powerful content manager system 
 
-Bean+servlet+mysql+jsp
+Bean + basedao+ servletcontroller + mysq l+jsp
 
