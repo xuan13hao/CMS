@@ -1,5 +1,5 @@
-# CMS
-A strong ,small and powerful content manager system 
+# Content Manager System (CMS)
+A strong, small and powerful content manager system 
 
-Bean + basedao+ servletcontroller + mysq l+jsp
+Basic Architecture: Bean + BaseDAO+ servletcontroller + mysql + jsp
 
