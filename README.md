@@ -4,7 +4,13 @@ A CMS helps create and manage websites and website content using minimal technic
 # Basic Architecture 
 
 ## MVC
-MVC is a design pattern where V and C are "strictly" form the presentation layer, and M can include everything that is beyond presentation (GUI). The model part in MVC has been an opinion based topic for a long time. But here's how I would structure a typical MVC application.
+MVC is a design pattern where V and C are "strictly" form the presentation layer, and M can include everything that is beyond presentation (GUI).
+### Model
+The Model encapsulates the application data.
+### View
+View renders the model data and also generates HTML output that the client’s browser can interpret.
+### Controller
+The Controller processes the user requests and passes them to the view for rendering.
 ![sample screenshot](https://github.com/xuan13hao/CMS/blob/master/mvc.PNG)
 
 ## Service
