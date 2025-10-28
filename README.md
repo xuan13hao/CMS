@@ -1,6 +1,6 @@
 # Content Management System
 
-A lightweight, Java-based Content Management System designed to help small companies and organizations manage their websites with minimal technical overhead. RedCMS provides an easy and cost-effective solution for content management, allowing businesses to manage and distribute their content without investing in a full-time development team.
+A lightweight, Java-based Content Management System designed to help small companies and organizations manage their websites with minimal technical overhead. CMS provides an easy and cost-effective solution for content management, allowing businesses to manage and distribute their content without investing in a full-time development team.
 
 ## 🚀 Features
 
